@@ -31,7 +31,9 @@ public class Login extends HttpServlet {
 		String pass = request.getParameter("pass");
 		
 		PrintWriter out = response.getWriter();
-		
+		// Note: you may add here the username and password
+		// Fetched from the database, i'm using my name for
+		// the demo purpose
 		if(uname.equals("ram") && pass.equals("mohan")){
 			HttpSession session = request.getSession();
 			session.setAttribute("username", uname);
