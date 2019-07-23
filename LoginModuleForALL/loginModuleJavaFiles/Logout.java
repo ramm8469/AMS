@@ -21,7 +21,7 @@ public class Logout extends HttpServlet {
         // TODO Auto-generated constructor stub
     }
 
-	
+	// We're using doGet method to logout the current user from the session
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		HttpSession session = request.getSession();
