@@ -1,0 +1,26 @@
+#attendance:hover{
+    -webkit-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+}
+#facultyAttendance:hover{
+    -webkit-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+}
+#NoticeBoard:hover{
+    -webkit-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+}
+#Feedback:hover{
+    -webkit-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+}
+#contactform:hover{
+    -webkit-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 19px 3px rgba(0,0,0,0.75);
+}
+
